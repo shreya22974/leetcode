@@ -22,11 +22,13 @@
 ## Array
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
+| [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 ## Two Pointers
 |  |

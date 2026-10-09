@@ -39,6 +39,7 @@
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
+| [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Sorting
 |  |
 | ------- |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
+| [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
 |  |
 | ------- |
@@ -64,4 +66,8 @@
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
+## Memoization
+|  |
+| ------- |
+| [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->

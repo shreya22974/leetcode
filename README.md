@@ -15,6 +15,7 @@
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -25,6 +26,7 @@
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,10 +49,12 @@
 | ------- |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +76,8 @@
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->

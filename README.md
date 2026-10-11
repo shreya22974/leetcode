@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -23,6 +24,7 @@
 ## Array
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -31,6 +33,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 ## Two Pointers
@@ -42,6 +45,7 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -76,6 +80,7 @@
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Heap (Priority Queue)
 |  |
@@ -85,4 +90,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreya22974/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

@@ -6,6 +6,7 @@
 | ------- |
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Stack
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
+| [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 ## Two Pointers
@@ -56,6 +58,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -112,4 +115,8 @@
 |  |
 | ------- |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->

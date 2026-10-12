@@ -7,6 +7,7 @@
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/shreya22974/leetcode/tree/master/0709-to-lower-case) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -75,6 +76,7 @@
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
 ## Brainteaser
@@ -124,4 +126,8 @@
 | ------- |
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreya22974/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->

@@ -42,6 +42,7 @@
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/shreya22974/leetcode/tree/master/2706-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreya22974/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -83,6 +84,7 @@
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/shreya22974/leetcode/tree/master/2706-buy-two-chocolates) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya22974/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -92,6 +94,7 @@
 | ------- |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Math
 |  |

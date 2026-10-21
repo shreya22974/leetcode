@@ -13,6 +13,7 @@
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shreya22974/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/shreya22974/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
 | ------- |

@@ -22,6 +22,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0680-valid-palindrome-ii](https://github.com/shreya22974/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0485-max-consecutive-ones](https://github.com/shreya22974/leetcode/tree/master/0485-max-consecutive-ones) |
+| [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -94,6 +96,7 @@
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
+| [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -230,4 +233,8 @@
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->

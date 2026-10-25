@@ -38,6 +38,7 @@
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
+| [0485-max-consecutive-ones](https://github.com/shreya22974/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |

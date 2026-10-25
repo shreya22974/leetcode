@@ -44,6 +44,7 @@
 | [1046-last-stone-weight](https://github.com/shreya22974/leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
+| [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -194,6 +195,7 @@
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Search Tree
 |  |
@@ -215,4 +217,16 @@
 |  |
 | ------- |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+## Depth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
+## Matrix
+|  |
+| ------- |
+| [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
 <!---LeetCode Topics End-->

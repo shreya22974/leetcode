@@ -86,6 +86,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreya22974/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
@@ -119,6 +120,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreya22974/leetcode/tree/master/0062-unique-paths) |
 | [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/shreya22974/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -210,6 +212,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/shreya22974/leetcode/tree/master/0062-unique-paths) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Binary Tree
 |  |

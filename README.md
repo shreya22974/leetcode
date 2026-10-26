@@ -61,6 +61,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreya22974/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreya22974/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [2951-find-the-peaks](https://github.com/shreya22974/leetcode/tree/master/2951-find-the-peaks) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya22974/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shreya22974/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/shreya22974/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreya22974/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2951-find-the-peaks](https://github.com/shreya22974/leetcode/tree/master/2951-find-the-peaks) |
 | [3886-sum-of-sortable-integers](https://github.com/shreya22974/leetcode/tree/master/3886-sum-of-sortable-integers) |
 ## Trie
 |  |

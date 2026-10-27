@@ -8,6 +8,7 @@
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
+| [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0680-valid-palindrome-ii](https://github.com/shreya22974/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shreya22974/leetcode/tree/master/0709-to-lower-case) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
@@ -43,6 +44,7 @@
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
+| [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreya22974/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
@@ -97,6 +99,7 @@
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
+| [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
@@ -176,10 +179,12 @@
 ## Knapsack Problem
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
+| [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
 ## Bit Manipulation
 |  |

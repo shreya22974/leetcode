@@ -1,25 +1,27 @@
 class Solution {
 public:
-   int m,n;
-    int solve(int i,int j,vector<vector<int>>& dungeon,vector<vector<int>>&dp){
-         if(i==m-1 && j==n-1){
-           return max(1,1-dungeon[i][j]);
-         }
-         if(i>=m ||j>=n){
-            return INT_MAX;
-         }
-         if(dp[i][j]!=INT_MAX){
-            return dp[i][j];
-         }
-         int down=solve(i+1,j,dungeon,dp);
-         int right=solve(i,j+1,dungeon,dp);
-         int need= min(down,right)-dungeon[i][j];
-         return dp[i][j]= max(1,need);
-    }
     int calculateMinimumHP(vector<vector<int>>& dungeon) {
-        m=dungeon.size();
-        n=dungeon[0].size();
+        int m=dungeon.size();
+        int n=dungeon[0].size();
         vector<vector<int>>dp(m+1,vector<int>(n+1,INT_MAX));
-        return solve(0,0,dungeon,dp);
+        dp[m-1][n-1]=max(1,1-dungeon[m-1][n-1]);
+        for(int i=m-1;i>=0;i--){
+            for(int j=n-1;j>=0;j--){
+                if(i==m-1 && j==n-1){
+                    continue;
+                } 
+                int down=INT_MAX;
+                if(i<m-1){
+                    down=dp[i+1][j];
+                }
+                int right=INT_MAX;
+                if(j<n-1){
+                    right=dp[i][j+1];
+                }
+                int need=min(down,right)-dungeon[i][j];
+                dp[i][j]=max(1,need);
+            }
+        }
+        return dp[0][0];
     }
 };

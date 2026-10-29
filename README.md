@@ -44,6 +44,7 @@
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
+| [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/shreya22974/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
@@ -100,6 +101,7 @@
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
+| [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
@@ -126,6 +128,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -243,6 +246,7 @@
 ## Longest Increasing Subsequence
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 ## Depth-First Search
 |  |

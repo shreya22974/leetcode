@@ -51,6 +51,7 @@
 | [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1046-last-stone-weight](https://github.com/shreya22974/leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
@@ -106,6 +107,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0474-ones-and-zeroes](https://github.com/shreya22974/leetcode/tree/master/0474-ones-and-zeroes) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [1025-divisor-game](https://github.com/shreya22974/leetcode/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -208,12 +210,14 @@
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreya22974/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreya22974/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreya22974/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreya22974/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -255,6 +259,7 @@
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0300-longest-increasing-subsequence) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 ## Depth-First Search
 |  |
 | ------- |

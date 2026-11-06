@@ -42,6 +42,7 @@
 ## Array
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/shreya22974/leetcode/tree/master/0051-n-queens) |
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
@@ -306,4 +307,12 @@
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shreya22974/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Backtracking
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shreya22974/leetcode/tree/master/0051-n-queens) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/shreya22974/leetcode/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->

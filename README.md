@@ -67,6 +67,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/shreya22974/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2706-buy-two-chocolates](https://github.com/shreya22974/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/shreya22974/leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreya22974/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -92,6 +93,7 @@
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/shreya22974/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
+| [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shreya22974/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreya22974/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -137,6 +139,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2706-buy-two-chocolates](https://github.com/shreya22974/leetcode/tree/master/2706-buy-two-chocolates) |
+| [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya22974/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shreya22974/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3886-sum-of-sortable-integers](https://github.com/shreya22974/leetcode/tree/master/3886-sum-of-sortable-integers) |
@@ -306,6 +309,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shreya22974/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |

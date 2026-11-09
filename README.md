@@ -56,6 +56,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/shreya22974/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/shreya22974/leetcode/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shreya22974/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1046-last-stone-weight](https://github.com/shreya22974/leetcode/tree/master/1046-last-stone-weight) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
@@ -134,6 +135,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/shreya22974/leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/shreya22974/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |

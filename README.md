@@ -61,6 +61,7 @@
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
 | [1049-last-stone-weight-ii](https://github.com/shreya22974/leetcode/tree/master/1049-last-stone-weight-ii) |
 | [1254-number-of-closed-islands](https://github.com/shreya22974/leetcode/tree/master/1254-number-of-closed-islands) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya22974/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -94,6 +95,7 @@
 | [0389-find-the-difference](https://github.com/shreya22974/leetcode/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/shreya22974/leetcode/tree/master/0575-distribute-candies) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya22974/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/shreya22974/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
@@ -139,6 +141,7 @@
 | [0646-maximum-length-of-pair-chain](https://github.com/shreya22974/leetcode/tree/master/0646-maximum-length-of-pair-chain) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/shreya22974/leetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1048-longest-string-chain](https://github.com/shreya22974/leetcode/tree/master/1048-longest-string-chain) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya22974/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/shreya22974/leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shreya22974/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/shreya22974/leetcode/tree/master/0561-array-partition) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shreya22974/leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Prefix Sum
 |  |
 | ------- |

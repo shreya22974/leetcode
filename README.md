@@ -76,6 +76,7 @@
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/shreya22974/leetcode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/shreya22974/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2951-find-the-peaks](https://github.com/shreya22974/leetcode/tree/master/2951-find-the-peaks) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shreya22974/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shreya22974/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shreya22974/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/shreya22974/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -317,10 +318,12 @@
 |  |
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/shreya22974/leetcode/tree/master/2574-left-and-right-sum-differences) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shreya22974/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window
 |  |
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/shreya22974/leetcode/tree/master/2747-count-zero-request-servers) |
+| [3364-minimum-positive-sum-subarray](https://github.com/shreya22974/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/shreya22974/leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Backtracking
 |  |

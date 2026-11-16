@@ -15,6 +15,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shreya22974/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1624-largest-substring-between-two-equal-characters](https://github.com/shreya22974/leetcode/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1768-merge-strings-alternately](https://github.com/shreya22974/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shreya22974/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shreya22974/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 | [2409-count-days-spent-together](https://github.com/shreya22974/leetcode/tree/master/2409-count-days-spent-together) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/shreya22974/leetcode/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/shreya22974/leetcode/tree/master/0412-fizz-buzz) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/shreya22974/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Binary Indexed Tree
 |  |
 | ------- |

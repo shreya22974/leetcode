@@ -67,6 +67,7 @@
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/shreya22974/leetcode/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/shreya22974/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/shreya22974/leetcode/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1732-find-the-highest-altitude](https://github.com/shreya22974/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/shreya22974/leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/shreya22974/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2574-left-and-right-sum-differences](https://github.com/shreya22974/leetcode/tree/master/2574-left-and-right-sum-differences) |
@@ -319,6 +320,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [1732-find-the-highest-altitude](https://github.com/shreya22974/leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2574-left-and-right-sum-differences](https://github.com/shreya22974/leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/shreya22974/leetcode/tree/master/3364-minimum-positive-sum-subarray) |
 ## Sliding Window

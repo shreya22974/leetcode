@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/shreya22974/leetcode/tree/master/0051-n-queens) |
+| [0118-pascals-triangle](https://github.com/shreya22974/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
@@ -120,6 +121,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/shreya22974/leetcode/tree/master/0062-unique-paths) |
 | [0091-decode-ways](https://github.com/shreya22974/leetcode/tree/master/0091-decode-ways) |
+| [0118-pascals-triangle](https://github.com/shreya22974/leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/shreya22974/leetcode/tree/master/0120-triangle) |
 | [0139-word-break](https://github.com/shreya22974/leetcode/tree/master/0139-word-break) |
 | [0174-dungeon-game](https://github.com/shreya22974/leetcode/tree/master/0174-dungeon-game) |
